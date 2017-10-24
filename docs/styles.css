@@ -9,3 +9,7 @@
 .card-img-top{
   height: 180px;
 }
+
+.card{
+  margin-bottom: 10px;
+}

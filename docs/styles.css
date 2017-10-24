@@ -13,3 +13,11 @@
 .card{
   margin-bottom: 10px;
 }
+
+.card-img-overlay .card-text{
+  color: yellow;
+}
+
+.card-img-overlay .card-text.ready{
+  color: green;
+}
